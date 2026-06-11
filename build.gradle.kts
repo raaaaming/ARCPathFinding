@@ -11,12 +11,6 @@ repositories {
     maven("https://repo.papermc.io/repository/maven-public/")
 }
 
-sourceSets {
-    main {
-        kotlin.srcDir("api/src/main/kotlin")
-    }
-}
-
 dependencies {
     testImplementation(kotlin("test"))
     compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
