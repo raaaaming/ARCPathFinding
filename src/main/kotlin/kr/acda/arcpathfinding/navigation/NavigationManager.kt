@@ -1,6 +1,6 @@
 package kr.acda.arcpathfinding.navigation
 
-import cc.arccore.runtime.context.RuntimeModuleContext
+import kr.acda.arccore.runtime.context.RuntimeModuleContext
 import org.bukkit.Bukkit
 import org.bukkit.Color
 import org.bukkit.Particle

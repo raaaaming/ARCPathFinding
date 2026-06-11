@@ -1,8 +1,8 @@
 package kr.acda.arcpathfinding
 
-import cc.arccore.api.module.BaseModule
-import cc.arccore.api.module.ModuleSpec
-import cc.arccore.runtime.context.RuntimeModuleContext
+import kr.acda.arccore.api.module.BaseModule
+import kr.acda.arccore.api.module.ModuleSpec
+import kr.acda.arccore.runtime.context.RuntimeModuleContext
 import kr.acda.arcpathfinding.cch.contractUltra
 import kr.acda.arcpathfinding.cch.customizeWeightsPerfectFast
 import kr.acda.arcpathfinding.chunk.ChunkSigCache

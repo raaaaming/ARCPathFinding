@@ -1,6 +1,6 @@
 package kr.acda.arcpathfinding.listener
 
-import cc.arccore.api.annotation.ARCListener
+import kr.acda.arccore.api.annotation.ARCListener
 import kr.acda.arcpathfinding.ARCPathFindingModule
 import org.bukkit.event.EventHandler
 import org.bukkit.event.EventPriority

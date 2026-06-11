@@ -1,9 +1,9 @@
 package kr.acda.arcpathfinding.command
 
-import cc.arccore.api.command.ARCCommand
-import cc.arccore.api.command.CommandContext
-import cc.arccore.api.command.CommandResult
-import cc.arccore.api.command.CommandSpec
+import kr.acda.arccore.api.command.ARCCommand
+import kr.acda.arccore.api.command.CommandContext
+import kr.acda.arccore.api.command.CommandResult
+import kr.acda.arccore.api.command.CommandSpec
 import kr.acda.arcpathfinding.ARCPathFindingModule
 import kr.acda.arcpathfinding.ARCPathFindingModule.Companion.INIT_TOTAL_STEPS
 import kr.acda.arcpathfinding.config.WorldNavConfig

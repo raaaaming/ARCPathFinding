@@ -10,4 +10,4 @@ plugins {
 }
 
 rootProject.name = "ARCPathFinding"
-include("api", "test")
+include("api")
